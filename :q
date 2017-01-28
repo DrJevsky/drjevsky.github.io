@@ -1,0 +1,8 @@
+# This is Git's per-user configuration file.
+
+# Please adapt and uncomment the following lines:
+#	name = Tor Myklebust
+#	email = tormyklebust@gmail.com
+[user]
+	name = Tor Myklebust
+	email = tormykle@gmail.com
